@@ -1,0 +1,7 @@
+pandas
+scipy
+nltk
+numpy
+transformers
+afinn
+wordcloud
